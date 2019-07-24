@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "forehands": [
+    "https://www.youtube.com/watch?v=sfBguU0U6Jg&t=7.1",
+    "https://www.youtube.com/watch?v=sfBguU0U6Jg&t=2.2"
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "backhands": [
+    "https://www.youtube.com/watch?v=sfBguU0U6Jg&t=1.1",
+    "https://www.youtube.com/watch?v=sfBguU0U6Jg&t=1.2",
+    "https://www.youtube.com/watch?v=sfBguU0U6Jg&t=4.9"
+  ]
 }
